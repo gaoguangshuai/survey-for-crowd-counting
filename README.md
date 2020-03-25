@@ -13,7 +13,7 @@ The annotation tools are available including the matlab, python and pytorch veri
 
 ============================================================
 
-Predicted_density_map_on_NWPU-Crowd_val on http://share.crowdbenchmark.com:2443/home/predicted_density_map_on_NWPU-Crowd_val 
+The constructed NWPU-Crowd Crowd Counting dataset, the pretrained models and the predicted density map on NWPU-Crowd_val on http://share.crowdbenchmark.com:2443/home 
 
 ===========================================================
 
