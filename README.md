@@ -9,7 +9,7 @@ If we miss your work, please let us know and we'll add it.
 
 ===========================================================
 
-Predicted_density_map_on_NWPU-Crowd_val on (http://share.crowdbenchmark.com:2443/home/predicted_density_map_on_NWPU-Crowd_val ) 
+Predicted_density_map_on_NWPU-Crowd_val on http://share.crowdbenchmark.com:2443/home/predicted_density_map_on_NWPU-Crowd_val 
 
 ===========================================================
 
@@ -17,7 +17,7 @@ Contact Information
 
 Email:  
 
-(gaoguangshuai1990@buaa.edu.cn)
+gaoguangshuai1990@buaa.edu.cn
 
 
 
