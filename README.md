@@ -9,6 +9,10 @@ If we miss your work, please let us know and we'll add it.
 
 ===========================================================
 
+The annotation tools are available including the matlab, python and pytorch verison.
+
+============================================================
+
 Predicted_density_map_on_NWPU-Crowd_val on http://share.crowdbenchmark.com:2443/home/predicted_density_map_on_NWPU-Crowd_val 
 
 ===========================================================
