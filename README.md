@@ -1,15 +1,13 @@
-# survey-for-crowd-counting
-
 A survey for CNN-based crowd counting and density estimation 
 ===========================================================
 
-It is very welcome to send us your evaluation results on the crowd counting dataset if your work is published in top-level conference.
+It is very welcome to share your evaluation results and density maps generated on the crowd counting dataset, if your work is published in top-level conference.
 
 If we miss your work, please let us know and we'll add it.
 
 ===========================================================
 
-The annotation tools are available including the matlab, python and pytorch verison.
+The prediction results and density maps of some mainstream algorithms in the NWPU validation set are provided for comparion and testing. Meanwhile, density map generation and evaluation tools are also included.
 
 ============================================================
 
