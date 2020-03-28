@@ -1,7 +1,8 @@
+#
 A survey for CNN-based crowd counting and density estimation 
 ===========================================================
 
-It is very welcome to share your evaluation results and density maps generated on the crowd counting dataset, if your work is published in top-level conference.
+It is very welcome to send us your evaluation results and density maps generated on the crowd counting dataset, if your work is published in the top-level conferences.
 
 If we miss your work, please let us know and we'll add it.
 
